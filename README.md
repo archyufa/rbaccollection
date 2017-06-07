@@ -2,7 +2,7 @@
 
 ## Workshop 1.
 
-##Create user jane that will have access to pod in her namespace only as reader. And no access outside of cluster
+## Create user jane that will have access to pod in her namespace only as reader. And no access outside of cluster
 
 ### 1. Create a kubernetes user with X509 Client Certs by accessing Kubernetes
 Master and running commands below:
